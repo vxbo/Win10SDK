@@ -1,0 +1,9 @@
+* text=auto
+
+*.lib -text -diff
+*.tlb -text -diff
+*.rtf -text -diff
+
+# or cpp
+*.idl linguist-language=c
+*.mof linguist-language=c
